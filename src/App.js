@@ -6,8 +6,8 @@ const App=()=> {
   return (
     <div className="App">
     <AppName 
-    title="LISO KNITS"
-    slogan="Premium Quality Nothing Else"
+    title="React-Reso"
+    slogan="All Things A Developer Needs"
     color="red"
     bg="black"
     border="red"/>
