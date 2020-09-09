@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-reso/static/css/main.80b520cd.chunk.css",
-    "main.js": "/react-reso/static/js/main.c65885b6.chunk.js",
-    "main.js.map": "/react-reso/static/js/main.c65885b6.chunk.js.map",
+    "main.css": "/react-reso/static/css/main.fd9fd27c.chunk.css",
+    "main.js": "/react-reso/static/js/main.001e2753.chunk.js",
+    "main.js.map": "/react-reso/static/js/main.001e2753.chunk.js.map",
     "runtime-main.js": "/react-reso/static/js/runtime-main.5b6e9b4e.js",
     "runtime-main.js.map": "/react-reso/static/js/runtime-main.5b6e9b4e.js.map",
     "static/js/2.7e33799b.chunk.js": "/react-reso/static/js/2.7e33799b.chunk.js",
     "static/js/2.7e33799b.chunk.js.map": "/react-reso/static/js/2.7e33799b.chunk.js.map",
     "index.html": "/react-reso/index.html",
-    "precache-manifest.df3cb3eb089d12a496f985a9086861d5.js": "/react-reso/precache-manifest.df3cb3eb089d12a496f985a9086861d5.js",
+    "precache-manifest.f5c2299e654d6509107cb7bd235bbc58.js": "/react-reso/precache-manifest.f5c2299e654d6509107cb7bd235bbc58.js",
     "service-worker.js": "/react-reso/service-worker.js",
-    "static/css/main.80b520cd.chunk.css.map": "/react-reso/static/css/main.80b520cd.chunk.css.map",
+    "static/css/main.fd9fd27c.chunk.css.map": "/react-reso/static/css/main.fd9fd27c.chunk.css.map",
     "static/js/2.7e33799b.chunk.js.LICENSE.txt": "/react-reso/static/js/2.7e33799b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b6e9b4e.js",
     "static/js/2.7e33799b.chunk.js",
-    "static/css/main.80b520cd.chunk.css",
-    "static/js/main.c65885b6.chunk.js"
+    "static/css/main.fd9fd27c.chunk.css",
+    "static/js/main.001e2753.chunk.js"
   ]
 }
